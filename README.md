@@ -2,6 +2,10 @@
 
 Trabalho da disciplina Compiladores 2021.1
 
+Aluno: Eduardo Teixeira Carneiro
+
+Matrícula: 319.031.001
+
 Data de entrega 23/07/21
 
 ## Introdução 
